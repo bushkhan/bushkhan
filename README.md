@@ -2,6 +2,7 @@
 
 <!--
 
+-->
 console.log("I'm Bushra Khan, a software developer enthusiast!");
 
 - 🔭 I’m currently working on self projects.
@@ -9,4 +10,3 @@ console.log("I'm Bushra Khan, a software developer enthusiast!");
 - 👯 I’m looking to collaborate on mern stack projects
 - 📫 How to reach me: bushrakhan2212002@gmail.com
 - ⚡ Fun fact: I love kdramas!
--->
