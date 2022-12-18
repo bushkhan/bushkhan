@@ -47,8 +47,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
-
-<a href="mailto:bushrakhan2212002@gmail.com"><img alt="Email" src=""></a>
+<a href="https://in.linkedin.com/in/bushra-khan-3a883a214"><img alt="LinkedIn" src=""></a>
+<a href="mailto:bushrakhan2212002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bushrakhan2212002@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
