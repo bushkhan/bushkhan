@@ -11,7 +11,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007396)
 - 🌐 &nbsp;
