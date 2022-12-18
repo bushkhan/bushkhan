@@ -11,7 +11,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-
+- 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007396)
 - 🌐 &nbsp;
@@ -31,7 +31,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=lightgreen)
- - 🖥 &nbsp;
  - 📱 &nbsp;
    ![ Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 <br/>
