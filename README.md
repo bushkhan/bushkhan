@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=bushkhan)
 
-<h2> Hey there! I'm Obaid Kazi.</h2>
+<h2> Hey there! I'm Bushra Khan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; BE Computer Engineering from University of Mumbai .
-- 💼 &nbsp; Working as a Software Engineer at Techstalwarts.
-- 🌱 &nbsp; Learning more about Laravel,flutter,javascript and many more things.
+- 💼 &nbsp; Currently working on self projects.
+- 🌱 &nbsp; Learning more about mern stack development,Machine learning,flutter,javascript and many more things.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -49,6 +49,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://in.linkedin.com/in/obaidkazi03"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Obaid%20Kazi-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:obaidkazi03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-obaidkazi03@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+<a href="mailto:bushrakhan2212002@gmail.com"><img alt="Email" src=""></a>
 </p>
