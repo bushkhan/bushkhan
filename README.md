@@ -35,10 +35,10 @@
    ![ Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/bushkhan">
+<!-- <a href="https://github.com/bushkhan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushkhan&theme=buefy&layout=compact" />
 </a>
-
+ -->
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
